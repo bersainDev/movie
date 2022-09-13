@@ -7,7 +7,7 @@ export default function Footer() {
     const { Footer } = Layout;
     return (
         <Footer>
-            <p>Technical proof 2022 - Bersain Luria López</p>
+            <p>Technical test 2022 - Bersain Luria López</p>
         </Footer>
     )
 }

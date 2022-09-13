@@ -6,7 +6,6 @@ import MenuTop from './components/MenuTop';
 // Pages
 import Home from './pages/home';
 import Movie from './pages/movie/movie';
-import Search from './pages/search';
 import Error404 from './pages/error404';
 
 export default function App() {
@@ -20,7 +19,6 @@ export default function App() {
         <Content>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/search" element={<Search />} />
             <Route path="/movie/:id" element={<Movie />} />
             <Route path="*" element={<Error404 />} />
           </Routes>

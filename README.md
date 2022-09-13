@@ -17,4 +17,8 @@ If you use yarn, yu can run:
 ### `yarn start`
 
 Runs the app in the development mode.\
+<<<<<<< HEAD
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+=======
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+>>>>>>> 5c63f11c7126b0c87ef5046b300ca822229c83ab
